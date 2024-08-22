@@ -13,8 +13,8 @@ const int LDR_THRESHOLD_PERCENT = 49;  // Ambang batas untuk sensor LDR (dalam p
 WiFiClient wifiClient;
 PubSubClient mqttClient(wifiClient);
 
-const char* ssid = "Note9";
-const char* password = "mr.herdian";
+const char* ssid = "Frost";
+const char* password = "hahahahihihi";
 
 const char* mqttServer = "broker.hivemq.com";
 const int mqttPort = 1883;
